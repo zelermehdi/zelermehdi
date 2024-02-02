@@ -1,16 +1,39 @@
 ### Hi there 👋
 
 <!--
-**zelermehdi/zelermehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mehdi Gamouh - Web Developer
 
-Here are some ideas to get you started:
+## About Me
+I am a professional web developer with extensive experience in developing, integrating, and optimizing web applications. Skilled in PHP (Laravel), JavaScript, ReactJS, Java, and other web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Technical Skills
+- HTML5, CSS3, JavaScript
+- PHP, Laravel
+- ReactJS, Angular, TypeScript, Bootstrap
+- Java, Spring Framework
+- GitLab, Jenkins, Maven
+
+## Projects
+- [Project Name](GitHub-Link): Description...
+- [Project Name](GitHub-Link): Description...
+
+
+
+## Education and Certifications
+- POEC - Développeurs Java / JEE
+- Titre professionnel (TP) - Développeur Web et Web Mobile
+- Degree in Psychology
+
+## Soft Skills
+- Project management
+- Agility in relationship management
+- Perseverance
+
+## Contact
+- [GitHub](https://github.com/zelermehdi)
+- [LinkedIn](https://linkedin.com/in/mehdi-gamouh)
+
+Feel free to connect with me for any interesting web development opportunities!
+ny interesting web development opportunities!
+
 -->
