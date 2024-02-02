@@ -1,4 +1,4 @@
-# Mehdi Gamouh - Web Developer
+# Mehdi - Web Developer
 
 👋 Hi, I'm Mehdi , a web developer with a passion for technology and a constant desire to learn and grow.
 
