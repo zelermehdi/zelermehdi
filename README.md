@@ -1,39 +1,33 @@
 ### Hi there 👋
-
 <!--
+**zelermehdi/zelermehdi** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+
 # Mehdi Gamouh - Web Developer
 
 ## About Me
-I am a professional web developer with extensive experience in developing, integrating, and optimizing web applications. Skilled in PHP (Laravel), JavaScript, ReactJS, Java, and other web technologies.
+I am a professional web developer with extensive experience in developing, integrating, and optimizing web applications. My skills span across PHP (Laravel), JavaScript, ReactJS, Java, and a variety of other web technologies.
 
 ## Technical Skills
-- HTML5, CSS3, JavaScript
-- PHP, Laravel
-- ReactJS, Angular, TypeScript, Bootstrap
-- Java, Spring Framework
-- GitLab, Jenkins, Maven
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript, PHP (Laravel), ReactJS, Angular, TypeScript, Java (Spring Framework)
+- **Tools & Platforms:** GitLab, Jenkins, Maven
 
 ## Projects
-- [Project Name](GitHub-Link): Description...
-- [Project Name](GitHub-Link): Description...
-
-
+Please visit my [GitHub repositories](https://github.com/zelermehdi?tab=repositories) to see the projects I'm working on!
 
 ## Education and Certifications
-- POEC - Développeurs Java / JEE
-- Titre professionnel (TP) - Développeur Web et Web Mobile
-- Degree in Psychology
+- **POEC** - Java/JEE Developer
+- **Professional Title** - Web and Web Mobile Developer
+- **Bachelor's Degree** in Psychology
 
 ## Soft Skills
-- Project management
-- Agility in relationship management
-- Perseverance
+- Effective project management
+- Strong relationship management
+- Resilience and perseverance
 
-## Contact
-- [GitHub](https://github.com/zelermehdi)
-- [LinkedIn](https://linkedin.com/in/mehdi-gamouh)
+## Connect with Me
+- 🌐 [GitHub](https://github.com/zelermehdi)
+- 💼 [LinkedIn](https://linkedin.com/in/mehdi-gamouh)
 
-Feel free to connect with me for any interesting web development opportunities!
-ny interesting web development opportunities!
+I am always open to interesting opportunities in web development. Feel free to connect with me!
 
 -->
