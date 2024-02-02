@@ -17,7 +17,7 @@
 🌱 I'm always eager to learn and currently expanding my knowledge in:
 
 - TypeScript, Angular
-- Tailwind (Learning)
+- Tailwind 
 
 📬 Feel free to reach out for exciting opportunities and collaborations in web development.
 
