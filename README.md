@@ -4,8 +4,8 @@
 
 💼 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/mehdi-gamouh)
 🌐 GitHub: [GitHub Profile](https://github.com/zelermehdi)
-[![](https://visitcount.itsvg.in/api?id=mehdi&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
-## About Me
+![Profile Views](https://visitcount.itsvg.in/api?id=mehdi&label=Profile%20Views&color=0&icon=1&pretty=false)
+
 
 🚀 I'm a web developer proficient in various technologies, including:
 
