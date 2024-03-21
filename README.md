@@ -19,7 +19,7 @@
 - Tailwind 
 
 ![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelermehdi&show_icons=true&theme=transparent)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelermehdi)](https://github.com/zelermehdi/github-readme-stats)
 
 
 📬 Feel free to reach out for exciting opportunities and collaborations in web development.
